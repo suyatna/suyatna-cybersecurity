@@ -1,37 +1,43 @@
-# BOTIUM TOYS: INTERNAL SECURITY AUDIT
+# Botium toys: Internal security audit
 
-## Table of contents
+## 📑 Table of contents
 
-1. [INTRODUCTION](#introduction)
-2. [SCENARIO](#scenario)
-3. [BOTIUM TOYS: SCOPE, GOALS, AND RISK ASSESSMEN REPORT](#botiumtoys)
-4. [CONTROL CATEGORIES](#controlcategories)
-5. [CONTROL AND COMPLIANCE CHECKLIST](#controlandcompliance)
-6. [CONCLUSION](#conclusion)
+1. [Introduction](#introduction)
+2. [Audit scenario](#scenario)
+3. [Scope, goals, and risk assessmen report](#botiumtoys)
+4. [Control categories](#controlcategories)
+5. [Control and compliance checklist](#controlandcompliance)
+6. [Conclusion](#conclusion)
 
-# 1. INTRODUCTION <a name="introduction">
+---
+
+## 🔍 Introduction <a name="introduction">
 
 The audit evaluates Botium Toys cybersecurity program and examines how existing business practices align with industry standards and best practices. The assessment focuses on identifying high-risk vulnerabilities, providing mitigation recommendations, and defining an overall strategy to improve the organization’s security posture. Audit findings are documented clearly, supported by remediation plans, and structured to enable effective communication with stakeholders.
 
-# 2. SCENARIO <a name="scenario">
+---
+
+## 🗭 Audit scenario <a name="scenario">
 
 The audit evaluates Botium Toys’ cybersecurity program and examines how existing business practices align with industry standards and best practices. The assessment focuses on identifying high-risk vulnerabilities, providing mitigation recommendations, and defining an overall strategy to improve the organization’s security posture. Audit findings are documented clearly, supported by remediation plans, and structured to enable effective communication with stakeholders.
 
-# 3. BOTIUM TOYS: SCOPE, GOALS, AND RISK ASSESSMEN REPORT <a name="botiumtoys">
+---
 
-## 3.1. Scope and goals of the audit
+## ✅ Scope, goals, and risk assessmen report <a name="botiumtoys">
 
-### a. Scope
+### Scope and goals of the audit
+
+#### a. Scope
 
 The scope of this audit covers the entire security program at Botium Toys. The assessment includes all assets managed by the IT department, encompassing systems, devices, data, and internal processes related to security control implementation and compliance with applicable standards.
 
 The audit evaluates not only the technologies in use, but also asset management practices, access control mechanisms, and the consistency of security control application across daily operations.
 
-### b. Goals
+#### b. Goals
 
 The primary goal of this audit is to evaluate the current security posture and identify gaps between existing practices and industry standards and best practices. The assessment focuses on reviewing existing assets and completing control and compliance checklists to determine which security measures should be implemented to improve Botium Toys’ overall security posture.
 
-## 3.2. Current assets
+### Current assets
 
 Assets managed by the IT department at Botium Toys include:
 - On-premises equipment supporting office operations
@@ -40,21 +46,21 @@ Assets managed by the IT department at Botium Toys include:
 - Business systems and services, including accounting, telecommunications, databases, security systems, e-commerce platforms, and inventory management systems
 - Internet access and internal network infrastructure
 
-## 3.3. Risk assessment
+### Risk assessment
 
-### a. Risk description
+#### a. Risk description
 
 Asset management at Botium Toys has not been implemented optimally. Existing security controls are limited and not fully aligned with national and international security regulations and standards. This situation exposes the organization to significant security risks, particularly related to sensitive data protection and business continuity.
 
-### b. Control best practices
+#### b. Control best practices
 
 The recommended approach aligns with the Identify function of the NIST Cybersecurity Framework. Botium Toys should allocate resources to identify and classify all existing assets. This process provides a foundation for understanding risk levels, prioritizing protection efforts, and evaluating the business impact of potential asset loss.
 
-### c. Risk score
+#### c. Risk score
 
 The overall risk score is 8 out of 10, indicating a high level of risk. This score reflects limited security controls and low adherence to compliance requirements and security best practices.
 
-### d. Additional risk considerations
+#### d. Additional risk considerations
 
 The potential impact of asset loss is considered moderate due to the lack of clarity regarding which assets are most critical to operations. However, the likelihood of asset compromise and regulatory penalties is high, as security controls and data protection mechanisms are insufficient.
 
@@ -70,9 +76,11 @@ Specific findings include:
 - A password policy exists but does not meet modern complexity standards
 - A centralized password management system has not been implemented
 
-# 4. CONTROL CATEGORIES <a name="controlcategories">
+---
 
-## 4.1. Overview
+## 🚧 Control categories <a name="controlcategories">
+
+### Overview
  
 Cybersecurity controls are grouped into three primary categories based on their function and area of protection within an organization. This classification helps ensure that human, technological, and physical aspects of security are addressed through a defense-in-depth approach.
 
@@ -83,7 +91,7 @@ The control categories used in the Botium Toys audit include:
 
 Each control is also classified by type to describe its role in preventing, detecting, responding to, or discouraging security incidents.
 
-## 4.2. Control types
+### Control types
 The control types referenced in this audit include:
 - Preventative
 - Corrective
@@ -92,7 +100,7 @@ The control types referenced in this audit include:
 
 These control types work together to protect organizational assets through layered security.
 
-## 4.3. Administrative/managerial controls
+### Administrative/managerial controls
 Administrative controls focus on the human element of cybersecurity. These controls include policies, procedures, and internal rules that define how data is managed and how employee responsibilities are assigned in relation to protecting the organization.
 
 Administrative controls are typically policy-driven, but their effectiveness often relies on the support of technical and physical controls during implementation.
@@ -106,7 +114,7 @@ Administrative controls are typically policy-driven, but their effectiveness oft
 |Account management policies  |Preventative   |Manage account lifecycles, reduce attack surface, and limit risks from default or former employee accounts |
 |Account management policies  |Preventative   |Reduce the risk of abuse by separating critical responsibilities across roles                              |
 
-## 4.4. Technical controls
+### Technical controls
 Technical controls consist of technology-based solutions used to protect systems, networks, and data from digital threats. These controls play a direct role in preventing, detecting, and responding to security incidents.
 
 The implementation of technical controls enables organizations to achieve security objectives in a consistent and measurable manner.
@@ -121,7 +129,7 @@ The implementation of technical controls enables organizations to achieve securi
 |Antivirus (AV) software                          |Corrective     |Detect and isolate known threats                                           |
 |Manual monitoring, maintenance, and intervention |Preventative   |Identify and manage risks in legacy systems that lack automated updates    |
 
-## 4.5. Physical/operational controls
+### Physical/operational controls
 Physical controls are used to restrict unauthorized physical access to organizational assets. These controls protect facilities, infrastructure, and inventory from non-digital threats.
 
 Physical security serves as a critical layer in safeguarding IT assets and supporting business operations.
@@ -136,8 +144,10 @@ Physical security serves as a critical layer in safeguarding IT assets and suppo
 |Locks                                            |Preventative/deterrent  |Prevent and deter unauthorized access to physical assets                          |
 |Fire detection and prevention systems            |Detective/preventative  |Detect fires and prevent damage to physical assets such as inventory and servers  |
 
-# 5. CONTROL AND COMPLIANCE CHECKLIST <a name="controlandcompliance">
+---
 
-## 5.1. Overview
+## 📋 Control and compliance checklist <a name="controlandcompliance">
+
+### Overview
  
 Cybersecurity controls are grouped into three primary categories based on their function and area of protection within an organization. This classification helps ensure that human, technological, and physical aspects of security are addressed through a defense-in-depth approach.
