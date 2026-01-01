@@ -17,7 +17,7 @@ The audit evaluates Botium toys cybersecurity program and examines how existing 
 
 ---
 
-## 🗭 Audit scenario <a name="scenario">
+## 💭 Audit scenario <a name="scenario">
 
 The audit evaluates Botium Toys’ cybersecurity program and examines how existing business practices align with industry standards and best practices. The assessment focuses on identifying high-risk vulnerabilities, providing mitigation recommendations, and defining an overall strategy to improve the organization’s security posture. Audit findings are documented clearly, supported by remediation plans, and structured to enable effective communication with stakeholders.
 
@@ -125,7 +125,7 @@ Bagian ini jadi titik di mana saya mulai menyusun gambaran besar soal keamanan d
 
 ## 📋 Control and compliance checklist <a name="controlandcompliance">
  
-Pada tahap ini, saya mulai mencocokkan kontrol keamanan yang seharusnya ada dengan kondisi nyata di Botium Toys.
+Di sini, saya mulai mencocokkan kontrol keamanan yang seharusnya ada dengan kondisi nyata di Botium Toys.
 
 |Kontrol|Yes|No|
 |---|---|---|
