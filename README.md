@@ -132,11 +132,21 @@ Di sini, saya mulai mencocokkan kontrol keamanan yang seharusnya ada dengan kond
 |Least privilege| |x|
 |Disaster recovery plans| |x|
 |Password policies|x| |
+|Access control policies| |x|
+|Account management policies| |x|
 |Separation of duties| |x|
 |Firewall|x| |
 |IDS/IPS| |x|
+|Encryption| |x|
 |Backups| |x|
+|Password management| |x|
 |Antivirus (AV) software|x| |
 |Manual monitoring, maintenance, and intervention|x| |
-|Encryption|x| |
+|Time-controlled safe|x| |
+|Adequate lighting|x| |
+|Closed-circuit television (CCTV)|x| |
+|Locking cabinets (network equipment)|x| |
+|Alarm service provider signage|x| |
+|Locks|x| |
+|Fire detection and prevention systems|x| |
 
