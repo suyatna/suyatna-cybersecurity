@@ -31,7 +31,7 @@ Audit ini disusun untuk melihat apakah praktik keamanan yang berjalan sudah seja
 
 ---
 
-## ✅ Scope, goals, and risk assessmen report <a name="botiumtoys">
+## 🎯 Scope, goals, and risk assessmen report <a name="botiumtoys">
 
 ### Scope and goals of the audit
 
