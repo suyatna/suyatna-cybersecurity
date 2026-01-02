@@ -13,7 +13,7 @@
 
 ## 👋 Introduction <a name="introduction">
 
-Studi kasus ini saya susun sebagai bagian dari portofolio cybersecurity, dengan fokus pada audit keamanan internal. Proyek ini menggunakan skenario Botium Toys, sebuah perusahaan retail mainan fiktif, untuk menggambarkan proses audit keamanan yang mendekati kondisi nyata di industri. Pembahasan ini juga lahir dari pembelajaran saya dalam program Google Cybersecurity Professional Certificate di Coursera, khususnya pada course Play It Safe: Manage Security Risks.
+Studi kasus ini saya susun sebagai bagian dari portofolio cybersecurity, dengan fokus pada audit keamanan internal. Proyek ini menggunakan skenario Botium Toys, sebuah perusahaan retail mainan fiktif, untuk menggambarkan proses audit keamanan yang mendekati kondisi nyata di industri. Pembahasan ini juga lahir dari pembelajaran saya dalam program <a href='https://www.coursera.org/google-certificates/cybersecurity-certificate'>Google Cybersecurity Professional Certificate</a> di Coursera, khususnya pada course <a href='https://www.coursera.org/learn/manage-security-risks?specialization=cybersecurity-certificate'> Play It Safe: Manage Security Risks</a>.
 
 Audit dilakukan untuk menilai sejauh mana sistem keamanan siber Botium Toys sudah berjalan dengan baik dan selaras dengan standar industri. Perhatian utama diarahkan pada risiko-risiko yang memiliki dampak besar, lalu diterjemahkan menjadi rekomendasi yang bisa langsung ditindaklanjuti. Hasil audit disusun secara rapi dan mudah dipahami, lengkap dengan rencana perbaikan, agar dapat disampaikan dengan jelas kepada para pemangku kepentingan.
 
