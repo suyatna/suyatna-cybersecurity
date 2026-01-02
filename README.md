@@ -217,9 +217,9 @@ Penilaian menunjukkan bahwa aspek keutuhan dan ketersediaan data sudah mulai dip
 
 ### Recommendations
 
-Dari seluruh hasil penilaian, area yang paling perlu segera dibenahi adalah perlindungan data sensitif dan kesiapan operasional. Enkripsi menjadi kebutuhan utama. Pengaturan akses berdasarkan peran perlu segera diterapkan. Sistem pendeteksi dini dibutuhkan agar masalah bisa diketahui lebih cepat. Cadangan data rutin juga harus disiapkan. Pengelolaan kata sandi secara terpusat dapat membantu menutup banyak celah kecil yang berisiko.
+Dari seluruh hasil penilaian, area yang paling perlu segera dibenahi adalah perlindungan data sensitif dan kesiapan operasional. Enkripsi menjadi kebutuhan utama. Pengaturan akses berdasarkan peran perlu segera diterapkan. Sistem pendeteksi dini dibutuhkan supaya masalah bisa diketahui lebih cepat. Cadangan data rutin juga harus disiapkan. Pengelolaan kata sandi secara terpusat dapat membantu menutup banyak celah kecil yang berisiko.
 
-Langkah-langkah ini menjadi dasar penting agar Botium Toys bisa menekan risiko kebocoran data, lebih siap saat menghadapi audit kepatuhan, dan membangun kondisi keamanan yang lebih kuat ke depannya.
+Langkah-langkah ini menjadi dasar penting supaya Botium Toys bisa menekan risiko kebocoran data, lebih siap saat menghadapi audit kepatuhan, dan membangun kondisi keamanan yang lebih kuat ke depannya.
 
 ---
 
